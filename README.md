@@ -26,7 +26,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:nicolas_ariel_almeida@outlook.com" target="_blank" alt="Gmail">
+  <a href="mailto:nicolas_ariel_almeida@outlook.com" target="_blank" alt="Email">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:nicolas_ariel_almeida@outlook.com" /></a>
 
   <a href="https://www.linkedin.com/in/nicolas-almeida-960b27161/" target="_blank" alt="Linkedin">
