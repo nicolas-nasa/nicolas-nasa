@@ -1,20 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hi! i'm Nicolas Almeida<br><strong>I love read and study about technology so i work with software development.</strong>.<br>
+  Nice Meet You! i'm Nicolas <br><strong>I love read and study about technology so i work with software development.</strong>.<br>
   Today i'm working with live stream service and study architecture of software.
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>Typescript, python, php, javascript.</strong>
-</p>
- 
-<p align="left">
-  🦄 Frameworks: <strong>Node.js, Nest.js, Next.js, React.js.</strong>
-</p>
-
-<p align="left">
-  🦄 Devops: <strong>Docker, Aws.</strong>
+  🎓 Skills<br>
+  -  Languages: <strong>Typescript, Javascript.</strong><br>
+  -  UX /UI /Designer: <strong></strong><br>
+  -  Frameworks: <strong>Node.js, Nest.js, Next.js, React.js.</strong><br>
+  -  Devops: <strong>Docker, Aws.</strong>
 </p>
 
 <p align="left">
